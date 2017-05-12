@@ -204,6 +204,20 @@
             "guid": "lWCUwZWQL", 
             "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
             "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Vollkorn", 
+                "<img src=\"Vollkorn.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s}w=s;oyQ", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
         }
     ]
 }
