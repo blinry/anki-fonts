@@ -54,8 +54,8 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [
-        "screenshot-2017-05-12_121953.png", 
-        "screenshot-2017-05-12_121318.png"
+        "Gotham.png", 
+        "Didot.png"
     ], 
     "mid": "1494583671440", 
     "name": "Fonts", 
@@ -137,7 +137,7 @@
             "data": "", 
             "fields": [
                 "Didot", 
-                "<img src=\"screenshot-2017-05-12_121318.png\" />", 
+                "<img src=\"Didot.png\" />", 
                 "<div>Hairline serifs without bracketing.</div><div>Extreme contrast between thick and thin strokes.</div><div>Vertical stress in rounded strokes.</div>", 
                 "<div>The Didot family were active as designers for about 100 years in the 18th and 19th centuries. They were printers, publishers, typeface designers, inventors and intellectuals. Around 1800 the Didot family owned the most important print shop and font foundry in France. Pierre Didot, the printer, published a document with the typefaces of his brother, Firmin Didot, the typeface designer. The printing company still exists under the name Firmin Didot, Societe Nouvelle.</div>"
             ], 
@@ -151,7 +151,7 @@
             "data": "", 
             "fields": [
                 "Gotham", 
-                "<img src=\"screenshot-2017-05-12_121953.png\" />", 
+                "<img src=\"Gotham.png\" />", 
                 "<div>Wider than average fonts.</div><div>Lowercase ‘a’ has a downward curve on bowl.</div><div>Large x-height.</div>", 
                 "<div>Commissioned by GQ in 2000, American type foundry Hoefler &amp; Frere-Jones looked to collected typography specimens from around New York as their source of inspiration for a typeface that had to be versatile but not imposing, and modern yet nostalgic. Being wider than average text, it lends itself gravity and solidity. It says, “What I’m saying is special enough to warrant the extra room I require.”</div>"
             ], 
