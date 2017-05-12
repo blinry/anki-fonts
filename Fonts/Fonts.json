@@ -67,7 +67,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
-            "css": ".card {\n font-size: 20px;\n text-align: center;\n}\n\nh2 {\n font-style: italic;\n font-weight: normal;\n font-size: 25px;\n}", 
+            "css": ".card {\n text-align: center;\n}\n\n.history {\n text-align: justify;\n margin: auto;\n max-width: 35em;\n}\n\nh2 {\n font-style: italic;\n font-weight: normal;\n font-size: 1em;\n margin-top: 2em;\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -122,7 +122,7 @@
             "tags": [], 
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<h1>{{Name}}</h1>\n\n<p>{{History}}</p>\n\n<h2>Defining Characteristics:</h2>\n\n<p>{{Characteristics}}</p>", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<h1>{{Name}}</h1>\n\n{{#History}}\n<div class=\"history\">{{History}}</div>\n{{/History}}\n\n{{#Characteristics}}\n<h2>Defining Characteristics:</h2>\n\n{{Characteristics}}\n{{/Characteristics}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -142,8 +142,8 @@
             "fields": [
                 "Didot", 
                 "<img src=\"Didot.svg\" />", 
-                "Hairline serifs without bracketing.\\nExtreme contrast between thick and thin strokes.\\nVertical stress in rounded strokes.", 
-                "The Didot family were active as designers for about 100 years in the 18th and 19th centuries. They were printers, publishers, typeface designers, inventors and intellectuals. Around 1800 the Didot family owned the most important print shop and font foundry in France. Pierre Didot, the printer, published a document with the typefaces of his brother, Firmin Didot, the typeface designer. The printing company still exists under the name Firmin Didot, Societe Nouvelle."
+                "<div>Hairline serifs without bracketing.</div><div>Extreme contrast between thick and thin strokes.</div><div>Vertical stress in rounded strokes.</div>", 
+                "The Didot family were active as designers for about 100 years in the 18th and 19th centuries. They were printers, publishers, typeface designers, inventors and intellectuals. Around 1800, the Didot family owned the most important print shop and font foundry in France. Pierre Didot, the printer, published a document with the typefaces of his brother, Firmin Didot, the typeface designer. The printing company still exists under the name Firmin Didot, Societe Nouvelle."
             ], 
             "flags": 0, 
             "guid": "g[r|]E|j>", 
@@ -170,7 +170,7 @@
             "fields": [
                 "Gotham", 
                 "<img src=\"Gotham.svg\" />", 
-                "Wider than average fonts.<div>Lowercase ‘a’ has a downward curve on bowl.</div><div>Large x-height.</div>", 
+                "<div>Wider than average fonts.</div><div>Lowercase ‘a’ has a downward curve on bowl.</div><div>Large x-height.</div>", 
                 "Commissioned by GQ in 2000, American type foundry Hoefler &amp; Frere-Jones looked to collected typography specimens from around New York as their source of inspiration for a typeface that had to be versatile but not imposing, and modern yet nostalgic. Being wider than average text, it lends itself gravity and solidity. It says, “What I’m saying is special enough to warrant the extra room I require.”"
             ], 
             "flags": 0, 
