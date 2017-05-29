@@ -6,7 +6,7 @@ require "./generate"
 
 name = ARGV.join(" ")
 
-generate(name) or exit
+#generate(name) or exit
 
 entry = {
     "__type__" => "Note",

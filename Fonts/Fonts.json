@@ -154,20 +154,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Yanone Kaffeesatz", 
-                "<img src=\"Yanone_Kaffeesatz.svg\" />", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "8o|.\"^~&Z", 
-            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "Gotham", 
                 "<img src=\"Gotham.svg\" />", 
                 "<div>Wider than average fonts.</div><div>Lowercase ‘a’ has a downward curve on bowl.</div><div>Large x-height.</div>", 
@@ -175,6 +161,552 @@
             ], 
             "flags": 0, 
             "guid": "s96tEv/{j", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Rockwell", 
+                "<img src=\"Rockwell.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "4h?.J|<hw", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        },
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Helvetica Bold", 
+                "<img src=\"Helvetica_Bold.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hRI(P+>`\"", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Univers Light", 
+                "<img src=\"Univers_Light.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "2bk`o[:,T", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Bembo", 
+                "<img src=\"Bembo.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "!Q]}yy~9K", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Perpetua", 
+                "<img src=\"Perpetua.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "uT8~k1!vt", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Optima", 
+                "<img src=\"Optima.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "%K\",.;@V@", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Avenir", 
+                "<img src=\"Avenir.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "y|f`;9@nA", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "DIN", 
+                "<img src=\"DIN.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "G)9%$=Y?M", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Bodoni", 
+                "<img src=\"Bodoni.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "0hK1x6M(z", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Futura Light", 
+                "<img src=\"Futura_Light.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "B\"7%N*v9r", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Minion Pro", 
+                "<img src=\"Minion_Pro.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "9z?.C/x@?", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Gill Sans Light", 
+                "<img src=\"Gill_Sans_Light.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "LM0\"~~B\"B", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Frutiger", 
+                "<img src=\"Frutiger.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "}QWfA_:3@", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Akzidenz Grotesk", 
+                "<img src=\"Akzidenz_Grotesk.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "%q^<k466G", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Avant Garde", 
+                "<img src=\"Avant_Garde.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "o1(Xi=K_@", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Kabel", 
+                "<img src=\"Kabel.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "0hEpyPx#j", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Helvetica Neue", 
+                "<img src=\"Helvetica_Neue.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "GVsc9**Vs", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Museo", 
+                "<img src=\"Museo.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ")o*|W4[ET", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Klavika", 
+                "<img src=\"Klavika.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "wp@d+^Jy8", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Franklin Gothic", 
+                "<img src=\"Franklin_Gothic.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "/G`~Bv,6q", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Meta", 
+                "<img src=\"Meta.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "M5O|)v6#Y", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Amplitude", 
+                "<img src=\"Amplitude.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "5CzSnu/!R", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Trajan", 
+                "<img src=\"Trajan.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "izm;_fMea", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Century Gothic", 
+                "<img src=\"Century_Gothic.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "_~W}k]Um9", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Sabon", 
+                "<img src=\"Sabon.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "!I){w5ES+", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "News Gothic", 
+                "<img src=\"News_Gothic.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "+GM{e694A", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Eurostile", 
+                "<img src=\"Eurostile.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "~KM{N9ek/", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Adobe Caslon", 
+                "<img src=\"Adobe_Caslon.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "szK|l14V9", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Interstate", 
+                "<img src=\"Interstate.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ":$@FCdZLW", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Times New Roman", 
+                "<img src=\"Times_New_Roman.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "y1CEchYS{", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Courier New", 
+                "<img src=\"Courier_New.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "[TJqEKr[<", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Baskerville", 
+                "<img src=\"Baskerville.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ">%R,Kj8>(", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Arial", 
+                "<img src=\"Arial.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "vhsu>VsA[", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "American Typewriter", 
+                "<img src=\"American_Typewriter.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "+3&;D|p#n", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Myriad", 
+                "<img src=\"Myriad.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "!|L|M4B\"6", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Palatino", 
+                "<img src=\"Palatino.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "{W?x]3L@a", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Neutraface", 
+                "<img src=\"Neutraface.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ")e]|)bqM2", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Claredon", 
+                "<img src=\"Claredon.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "r<1!:;nGK", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Syntax", 
+                "<img src=\"Syntax.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "]30!GjQ\"]", 
             "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
             "tags": []
         }, 
@@ -196,13 +728,13 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Inconsolata", 
-                "<img src=\"Inconsolata.svg\" />", 
+                "Garamond", 
+                "<img src=\"Garamond.svg\" />", 
                 "", 
                 ""
             ], 
             "flags": 0, 
-            "guid": "lWCUwZWQL", 
+            "guid": ".eZ#${R&0", 
             "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
             "tags": []
         }, 
@@ -210,13 +742,55 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Vollkorn", 
-                "<img src=\"Vollkorn.svg\" />", 
+                "Agenda Light", 
+                "<img src=\"Agenda_Light.svg\" />", 
                 "", 
                 ""
             ], 
             "flags": 0, 
-            "guid": "s}w=s;oyQ", 
+            "guid": ")|c~7&^s[", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Copperplate Gothic Light", 
+                "<img src=\"Copperplate_Gothic_Light.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "23x:<@Cno", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Today Sans", 
+                "<img src=\"Today_Sans.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "fcn`B.1_S", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Info", 
+                "<img src=\"Info.svg\" />", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "#Iu+9hpd2", 
             "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
             "tags": []
         }
