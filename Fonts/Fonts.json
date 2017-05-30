@@ -54,53 +54,53 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [
-        "Didot.svg", 
-        "Gotham.svg", 
-        "Rockwell.svg", 
-        "Helvetica_Bold.svg", 
         "Univers_Light.svg", 
-        "Bembo.svg", 
-        "Perpetua.svg", 
-        "Optima.svg", 
-        "Avenir.svg", 
-        "DIN_Condensed.svg", 
-        "Bodoni.svg", 
-        "Futura_Light.svg", 
-        "Minion_Pro.svg", 
-        "Gill_Sans_Light.svg", 
-        "Frutiger.svg", 
-        "Akzidenz_Grotesk.svg", 
-        "Avant_Garde.svg", 
-        "Kabel.svg", 
-        "Helvetica_Neue.svg", 
-        "Museo.svg", 
-        "Klavika_Bold.svg", 
-        "Franklin_Gothic.svg", 
-        "Meta.svg", 
-        "Amplitude.svg", 
-        "Trajan_Pro.svg", 
-        "Century_Gothic.svg", 
-        "Sabon.svg", 
-        "News_Gothic_MT.svg", 
-        "Eurostile.svg", 
-        "Adobe_Caslon.svg", 
-        "Interstate.svg", 
         "Times_New_Roman.svg", 
-        "Courier_New.svg", 
+        "Franklin_Gothic.svg", 
         "Baskerville.svg", 
+        "Helvetica_Neue.svg", 
         "Arial.svg", 
-        "American_Typewriter.svg", 
-        "Myriad_Pro.svg", 
-        "Palatino.svg", 
-        "Neutraface.svg", 
-        "Claredon.svg", 
-        "Syntax_Bold.svg", 
-        "Cooper_Black.svg", 
+        "Bodoni.svg", 
+        "Sabon.svg", 
+        "Bembo.svg", 
         "Garamond.svg", 
-        "Agenda_Light.svg", 
+        "Didot.svg", 
+        "Museo.svg", 
+        "Avant_Garde.svg", 
+        "Syntax_Bold.svg", 
+        "Century_Gothic.svg", 
+        "Optima.svg", 
+        "Frutiger.svg", 
+        "Meta.svg", 
+        "Myriad_Pro.svg", 
+        "Amplitude.svg", 
+        "DIN_Condensed.svg", 
+        "Gill_Sans_Light.svg", 
+        "Akzidenz_Grotesk.svg", 
         "Copperplate_Gothic_Light.svg", 
+        "Rockwell.svg", 
+        "Gotham.svg", 
+        "Interstate.svg", 
+        "Palatino.svg", 
+        "Agenda_Light.svg", 
+        "Courier_New.svg", 
+        "American_Typewriter.svg", 
+        "Futura_Light.svg", 
+        "News_Gothic_MT.svg", 
+        "Helvetica_Bold.svg", 
+        "Kabel.svg", 
         "Today_Sans.svg", 
-        "Info.svg"
+        "Perpetua.svg", 
+        "Claredon.svg", 
+        "Minion_Pro.svg", 
+        "Klavika_Bold.svg", 
+        "Eurostile.svg", 
+        "Info.svg", 
+        "Neutraface.svg", 
+        "Adobe_Caslon.svg", 
+        "Avenir.svg", 
+        "Trajan_Pro.svg", 
+        "Cooper_Black.svg"
     ], 
     "mid": "1494583671440", 
     "name": "Fonts", 
@@ -209,10 +209,24 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
+                "Cooper Black", 
+                "<img src=\"Cooper_Black.svg\" />", 
+                "<div>Blunt and rounded forms.</div><div>Backward tilt of the counters on the “O,o” and “Q”.</div><div>Elliptical dots in the “i” and “j”.</div>", 
+                "<div>Cooper Black is a heavily weighted, old style serif typeface designed by Oswald Bruce Cooper in 1921 and released by the Barnhart Brothers &amp; Spindler type foundry in 1922. The typeface is drawn as an extra bold weight of Cooper Old Style. Though not based on a single historic model it exhibits influences of Art Nouveau, Art Deco, and the Machine Age. Cooper Black is a heavier version of Cooper Old Style which enjoyed particular popularity in the 1920s and 1930s, and also became somewhat iconic of the 1970s.</div>"
+            ], 
+            "flags": 0, 
+            "guid": "mJWEnEn?k", 
+            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
                 "Rockwell", 
                 "<img src=\"Rockwell.svg\" />", 
-                "", 
-                ""
+                "<div>Upper and lower case ‘o’ are almost circular.</div><div>Block serif on the upper case ‘A’.</div><div>No thin/thick contrast (serifs are same thickness as other lines).</div>", 
+                "<div>The original Rockwell was produced by the Inland typefoundry in 1910, which issued it as Litho Antique; American Type Founders revived the face in the 1920s, with Morris Fuller Benton cutting several new weights. The Monotype Corporation produced its version of Rockwell in 1934; unfortunately, some of the literature erroneously referred to it as Stymie Bold, thereby creating confusion that still exists today.</div>"
             ], 
             "flags": 0, 
             "guid": "4h?.J|<hw", 
@@ -225,8 +239,8 @@
             "fields": [
                 "Helvetica Bold", 
                 "<img src=\"Helvetica_Bold.svg\" />", 
-                "", 
-                ""
+                "<div>Single, uniformed line weight.</div><div>Vertical or horizontal terminations on strokes, never diagonal.</div><div>Bowl of lowercase “a” closely resembles a teardrop.</div>", 
+                "<div>Eduard Hoffmann, the director of the Haas’sche Schriftgießerei, commissioned Max Miedinger to develop a new sans-serif typeface that had great clarity, no intrinsic meaning in its form, and could be used on a wide variety of signage. In 1957 the Haas-Grotesk face was introduced. Three years later the typeface was renamed Helvetica.</div>"
             ], 
             "flags": 0, 
             "guid": "hRI(P+>`\"", 
@@ -239,8 +253,8 @@
             "fields": [
                 "Univers Light", 
                 "<img src=\"Univers_Light.svg\" />", 
-                "", 
-                ""
+                "<div>Diagonal strokes of “k” meet at stem.</div><div>“a” has no baseline curl, and is perpendicular at top of bowl.</div><div>Squaring of round strokes.</div>", 
+                "<div>Univers is based on 1898‘s Akzidenz-Grotesk. However, Univers is unique in that the design lacks superfluous features of any type, creating a design that is versatile and distinctive without being obstrusive. Adrian Frutiger began work on Univers in 1954, completing his design in 1957.</div>"
             ], 
             "flags": 0, 
             "guid": "2bk`o[:,T", 
@@ -253,8 +267,8 @@
             "fields": [
                 "Bembo", 
                 "<img src=\"Bembo.svg\" />", 
-                "", 
-                ""
+                "<div>“y” has a rather short descender.</div><div>The serifs on the “T” are divergent.</div><div>“a” and “e” have small counters.</div>", 
+                "<div>The first version of Bembo was cut by Francesco Griffo around 1496 for use by Venetian printer Aldus Manutius. The typeface got its name from being used in a book authored by Cardinal Bembo. The iteration that we currently use was created by Stanley Morison for The Monotype Corporation in 1929.</div>"
             ], 
             "flags": 0, 
             "guid": "!Q]}yy~9K", 
@@ -267,8 +281,8 @@
             "fields": [
                 "Perpetua", 
                 "<img src=\"Perpetua.svg\" />", 
-                "", 
-                ""
+                "<div>“r” has a calligraphic ear.</div><div>Sharp, small and slightly sloped serifs.</div><div>“a” has an unusual tapered top.</div>", 
+                "<div>Eric Gill designed Perpetua in the early part of the 20th century, basing it on the designs of old engravings. The formal impression which this font lends to any text is due in part to its small, diagonal serifs and its medieval numbers. First used in a privately printed translation by Walter Shrewing of ‘The Passion of Perpetua and Felicity’, hence it’s name.</div>"
             ], 
             "flags": 0, 
             "guid": "uT8~k1!vt", 
@@ -281,8 +295,8 @@
             "fields": [
                 "Optima", 
                 "<img src=\"Optima.svg\" />", 
-                "", 
-                ""
+                "<div>Tapered slopes similar to serifed faces.</div><div>Subtle swelling at terminals suggestion of a glyphic serif.</div><div>Capitals directly derived from classic Roman capital model.</div>", 
+                "<div>Designed by Hermann Zapf between 1952–1955 and released in 1958 by Berthold. Optima was inspired by classical Roman inscriptions and is distinguished by its flared terminals. Although the Optima design is almost always grouped with typefaces such as the Helvetica and Gill Sans designs, it should be considered a serifless roman.</div>"
             ], 
             "flags": 0, 
             "guid": "%K\",.;@V@", 
@@ -295,8 +309,8 @@
             "fields": [
                 "Avenir", 
                 "<img src=\"Avenir.svg\" />", 
-                "", 
-                ""
+                "<div>“j” and “y” have curved tails.</div><div>Compared to Futura, V shapes (A,M,N,V,W,etc)</div><div>are squared off instead of pointed.</div>", 
+                "<div>Designed by Adrian Frutiger and released by Linotype-Hell AG in 1988. In an interview with Linotype, Frutiger said he felt an obligation to design a linear sans in the tradition of Erbar and Futura, but to also make use of the experience and stylistic developments of the twentieth century. The word Avenir means “future” in French and hints that the typeface owes some of its interpretation to Futura.</div>"
             ], 
             "flags": 0, 
             "guid": "y|f`;9@nA", 
@@ -309,8 +323,8 @@
             "fields": [
                 "DIN Condensed", 
                 "<img src=\"DIN_Condensed.svg\" />", 
-                "", 
-                ""
+                "<div>Slightly squared letterform.</div><div>Square dots above the lowercase “i” and “j”.</div><div>Single story lowercase “g”.</div>", 
+                "<div>The history of the realist sans-serif known today as DIN goes back to 1905. At the time, the Prussian railway created a set of lettering with the purpose of unifying the descriptions on their freight cars. Following a merger of all German state railways in 1920, the master drawings of the Prussian railway became the reference for most railway lettering. Based on the master drawings, the D. Stempel AG foundry released the earliest version of a DIN face in 1923.</div>"
             ], 
             "flags": 0, 
             "guid": "G)9%$=Y?M", 
@@ -323,8 +337,8 @@
             "fields": [
                 "Bodoni", 
                 "<img src=\"Bodoni.svg\" />", 
-                "", 
-                ""
+                "<div>Small upper bowl of “g”.</div><div>No middle serif on “w”.</div><div>Large ball terminal of “c”.</div>", 
+                "<div>Although its origins are over 300 years old, the Bodoni typeface is regarded as a Modern or Didone font. Designed by the Italian engraver Giambattista Bodoni in 1798, the font which bears his name drew upon the influences of the older serif Baskerville face to produce a font which was seen as being more pleasing on the eye.</div>"
             ], 
             "flags": 0, 
             "guid": "0hK1x6M(z", 
@@ -337,8 +351,8 @@
             "fields": [
                 "Futura Light", 
                 "<img src=\"Futura_Light.svg\" />", 
-                "", 
-                ""
+                "<div>Geometric structure; near perfect circles,</div><div>triangles &amp; squares evident across every letter.</div><div>Lowercase has tall ascenders which rise above cap line.</div>", 
+                "<div>Following the Bauhaus design philosophy, German type designer Paul Renner first created Futura between 1924 and 1926. Although Renner was not a member of the Bauhaus, he shared many of its views, believing that a modern typeface should express modern models rather than be a rivial of a previous design. Futura was commercially released in 1927, commissioned by the Bauer type foundry. In 1969 the Apollo 11 astronauts left behind a commemorative plaque, set in Futura, making it the first font on the moon.</div>"
             ], 
             "flags": 0, 
             "guid": "B\"7%N*v9r", 
@@ -351,8 +365,8 @@
             "fields": [
                 "Minion Pro", 
                 "<img src=\"Minion_Pro.svg\" />", 
-                "", 
-                ""
+                "<div>Double story lowercase “g” with closed tail.</div><div>Slight curve in upward diagonal of lowercase “k”.</div><div>Ascenders exceed the cap height.</div>", 
+                "<div>Minion Pro is an Adobe Original typeface designed by Robert Slimbach. The first version of Minion was released in 1990. Cyrillic additions were released in 1992, and finally the OpenType Pro version was released in 2000. Minion Pro is inspired by classical, old style typefaces of the late Renaissance, a period of elegant, beautiful, and highly readable type designs.</div>"
             ], 
             "flags": 0, 
             "guid": "9z?.C/x@?", 
@@ -365,8 +379,8 @@
             "fields": [
                 "Gill Sans Light", 
                 "<img src=\"Gill_Sans_Light.svg\" />", 
-                "", 
-                ""
+                "<div>Contrast in line weight; seen primarily in the letter “r”.</div><div>Signature lowercase “g” resembles eyeglasses.</div><div>Cropped ascender on the letter “t”.</div>", 
+                "<div>The British sculptor, graphic artist and type designer Eric Gill created this font in a search to design the ultimate legible sans-serif text face. Edward Johnston’s sans serif lettering for the London Underground was his prime source of inspiration. The typeface was designed to function as a text face as well and has been a popular choice for decades.</div>"
             ], 
             "flags": 0, 
             "guid": "LM0\"~~B\"B", 
@@ -379,8 +393,8 @@
             "fields": [
                 "Frutiger", 
                 "<img src=\"Frutiger.svg\" />", 
-                "", 
-                ""
+                "<div>Squared dots above the letters “j” and “i”.</div><div>The capital “Q” has a tail centered under the figure.</div><div>The uppercase “J” has a slight hook.</div>", 
+                "<div>The typeface Frutiger was designed by Swiss type designer Adrian Frutiger, completed in 1975. Due to the success of Frutiger’s recently designed Univers variant for use by the Paris Metro a few years earlier, he was commissioned by the French airport authority to design a new alphabet to be used in signage for the new Charles de Gaulle International Airport in Paris. Originally called Roissy (after the Paris suburb where the airport was located), it was later renamed Frutiger when released for public use by Linotype in 1976.</div>"
             ], 
             "flags": 0, 
             "guid": "}QWfA_:3@", 
@@ -393,8 +407,8 @@
             "fields": [
                 "Akzidenz Grotesk", 
                 "<img src=\"Akzidenz_Grotesk.svg\" />", 
-                "", 
-                ""
+                "<div>The end of the strokes of the “s”,”c” &amp; “e” are not horizontal.</div><div>The capital “G” is without spur.</div><div>The uppercase “R” has a straight leg.</div>", 
+                "<div>Akzidenz Grotesk is a realist sans-serif typeface originally released by the H. Berthold AG type foundry in 1896. Contemporary versions of Akzidenz Grotesk descend from an early-1950s project, directed by Günter Gerhard Lange at Berthold, to enlarge the typeface family, adding a larger character set, but retaining all of the idiosyncrasies of the 1896 face. Some new weights, condensed and extended widths were released under the title Standard. While Günter Gerhard Lange sought to academically retain Akzidenz Grotesk’s imperfections, Max Miedinger’s 1957 Swiss typeface Helvetica, used it as a model but sought to refine the typeface making it more even and unified.</div>"
             ], 
             "flags": 0, 
             "guid": "%q^<k466G", 
@@ -407,8 +421,8 @@
             "fields": [
                 "Avant Garde", 
                 "<img src=\"Avant_Garde.svg\" />", 
-                "", 
-                ""
+                "<div>Bowl of “R” doesn’t close, but “P” does.</div><div>Curve on tail of capital “Q”.</div><div>Short descenders; “g”, “j”, “p”, “q”, “y”.</div>", 
+                "<div>Herb Lubalin and Tom Carnase designed Avant Garde around 1968. It was based on Lubalin’s logo for Avant Garde magazine. The original face was all uppercase. Avant Garde was the first typeface released by ITC when the company was founded in 1970. Next to being used in all types of art publications, Avant Garde was a classic in ’70s advertising design.</div>"
             ], 
             "flags": 0, 
             "guid": "o1(Xi=K_@", 
@@ -421,8 +435,8 @@
             "fields": [
                 "ITC Kabel", 
                 "<img src=\"Kabel.svg\" />", 
-                "", 
-                ""
+                "<div>Terminus of vertical strokes are cut to a near eight-degree angle.</div><div>Diamond shaped dots on “i” &amp; “j”.</div><div>Distinctive lowercase “g”.</div>", 
+                "<div>Kabel is a geometric sans-serif typeface designed by German typeface designer Rudolf Koch, and released by the Klingspor foundry in 1927. The face was named to honor the newly completed trans-Atlantic telephone cable. Today the typeface is licensed by the Elsner+Flake GbR foundry.</div>"
             ], 
             "flags": 0, 
             "guid": "0hEpyPx#j", 
@@ -435,8 +449,8 @@
             "fields": [
                 "Helvetica Neue", 
                 "<img src=\"Helvetica_Neue.svg\" />", 
-                "", 
-                ""
+                "<div>Widened crossbars on “t” and “f”.</div><div>X-height adjusted to be visually simillar across weights.</div><div>Capital “M” extended to improve balance and aesthetics.</div>", 
+                "<div>Neue Helvetica is a reworking of the typeface with a more structurally unified set of heights and widths. It was developed at D. Stempel AG, a Linotype subsidiary. The studio manager was Wolfgang Schimpf, and his assistant was Reinhard Haus; the manager of the project was René Kerfante. Erik Spiekermann was the design consultant and designed the literature for the launch in 1983. Other changes include improved legibility, heavier punctuation marks, and increased spacing in the numbers.</div><div><br /></div><div><i>refer to Helvetica for original history</i></div>"
             ], 
             "flags": 0, 
             "guid": "GVsc9**Vs", 
@@ -449,8 +463,8 @@
             "fields": [
                 "Museo", 
                 "<img src=\"Museo.svg\" />", 
-                "", 
-                ""
+                "<div>Serif like accents on majority of letters.</div><div>Shortened ascender on the letter “t”.</div><div>Slight storke variation on curves.</div>", 
+                "<div>Jos Buivenga designed Museo in 2008 for the exljbris Font Foundry stating, “It all started with my love for the letter ‘U’. This uppercase letter just came to me as an image in a daydream. The top of both stems bent into semi-slab serifs. From this principle I worked out the rest of the uppercase letters. My first intention was to make it an all-caps display font, but after a while, I changed my mind. I wanted it to be a bit more versatile, so I decided to add lowercase and adjust spacing and kerning to increase legibility.”</div>"
             ], 
             "flags": 0, 
             "guid": ")o*|W4[ET", 
@@ -463,8 +477,8 @@
             "fields": [
                 "Klavika Bold", 
                 "<img src=\"Klavika_Bold.svg\" />", 
-                "", 
-                ""
+                "<div>Gap between the vertical stroke and diagonal strokes on “k”.</div><div>Disjointed strokes of lowercase “y”.</div><div>Generally squared letterform.</div>", 
+                "<div>Klavika, by Eric Olson of Process Type Foundry, was released in 2004. In the time since, Klavika has become one of the past decade’s most popular typefaces. It has been a favorite of NBC and its sister stations in on-air promotions, and is in heavy use by ABC Sports/ESPN, Comcast Xfinity, General Motors, and a great number of other companies, large and small. Perhaps Klavika is most noticeable as the basis for the Facebook logo.</div>"
             ], 
             "flags": 0, 
             "guid": "wp@d+^Jy8", 
@@ -477,8 +491,8 @@
             "fields": [
                 "Franklin Gothic", 
                 "<img src=\"Franklin_Gothic.svg\" />", 
-                "", 
-                ""
+                "<div>Traditional double-story “g”.</div><div>Ear of the letter “g” is also another distinguishing feature.</div><div>Angled ends of stems of lowercase “b” and “q”.</div>", 
+                "<div>The original Franklin Gothic typeface was the third in a series of sans serif faces designed after American Type Founders was founded. In the early 1900s, ATF’s head of typeface development, Morris Fuller Benton, began to create the type designs that would influence American type design for more than 40 years. The Globe Gothic face was his first sans serif design, which was followed shortly thereafter by Alternate Gothic. Around 1902, Franklin Gothic was cut, although it was not released as a font of metal type until 1905.</div>"
             ], 
             "flags": 0, 
             "guid": "/G`~Bv,6q", 
@@ -491,8 +505,8 @@
             "fields": [
                 "Meta", 
                 "<img src=\"Meta.svg\" />", 
-                "", 
-                ""
+                "<div>Round dots above “j” and “i”</div><div>Curved edged stems on many letters.</div><div>Strokes of lowercase “y” do not completely meet.</div>", 
+                "<div>FF Meta is a humanist sans-serif typeface family designed by Erik Spiekermann originally as a commission for the Deutsche Bundespost (West German Post Office), but later released by Spiekermann himself in 1991 through his FontFont library. According to Spiekermann, FF Meta was intended to be a “complete antithesis of Helvetica,” which he found “boring and bland.” Throughout the nineties, FF Meta was embraced by the international design community with Spiekermann and E. M. Ginger writing that it had been dubiously praised as the Helvetica of the 1990s.</div>"
             ], 
             "flags": 0, 
             "guid": "M5O|)v6#Y", 
@@ -505,8 +519,8 @@
             "fields": [
                 "Amplitude", 
                 "<img src=\"Amplitude.svg\" />", 
-                "", 
-                ""
+                "<div>Ear of lowercase “g”.</div><div>“Cuts” at points where strokes meet.</div><div>Slightly condensed letterform.</div>", 
+                "<div>A successful agate (the smallest point size that can be printed on newsprint and remain legible) predicts the spread of ink on paper and effectively keeps legibility under less than ideal conditions.Fascinated by the visual aspects of these entirely functional compensations, Christian Schwartz designed Amplitude, an extensive sanserif series for text and display that turns function into style: deep angled cuts keep small sizes readable, while adding character at display sizes. It was released by Font Bureau in 2002.</div>"
             ], 
             "flags": 0, 
             "guid": "5CzSnu/!R", 
@@ -519,8 +533,8 @@
             "fields": [
                 "Trajan", 
                 "<img src=\"Trajan_Pro.svg\" />", 
-                "", 
-                ""
+                "<div>Elongated sweeping tail of “Q”.</div><div>Angled vertical serifs on “T”, “E”, “C”, and “Z”.</div><div>Sweeping terminals of “K” and “R”.</div>", 
+                "<div>Trajan is an old style serif typeface designed in 1989 by Carol Twombly for Adobe. The design is based on the letterforms of capitalis monumentalis or Roman square capitals, as used for the inscription at the base of Trajan’s Column from which the typeface takes its name. Since the inscription and its writing form manifests in only one case, Trajan is an all-capitals typeface.</div>"
             ], 
             "flags": 0, 
             "guid": "izm;_fMea", 
@@ -533,8 +547,8 @@
             "fields": [
                 "Century Gothic", 
                 "<img src=\"Century_Gothic.svg\" />", 
-                "", 
-                ""
+                "<div>Single story “a” and “g”.</div><div>No descender on lowercase “u”.</div><div>Larger x-height than close relative Futura.</div>", 
+                "<div>Century Gothic is a geometric sans-serif typeface designed for Monotype Imaging in 1991. It is a digital typeface that has never been made into actual foundry type. Century Gothic takes inspiration from Sol Hess’s Twentieth Century, which was drawn between 1937 and 1947 for the Lanston Monotype Company as a version of the successful Futura typeface, but with a larger x-height and more even stroke width.Century Gothic is also said to be an interpretation of its early predecessor, ITC Avant Garde Gothic.</div>"
             ], 
             "flags": 0, 
             "guid": "_~W}k]Um9", 
@@ -547,8 +561,8 @@
             "fields": [
                 "Sabon", 
                 "<img src=\"Sabon.svg\" />", 
-                "", 
-                ""
+                "<div>Vertical notches of a capital “T”.</div><div>Capital “Q”s tail is centered under the figure.</div><div>Uppercase “J” has a slight hook.</div>", 
+                "<div>In the early 1960s, the German masterprinters’ association requested that a new typeface be designed and produced in identical form on both Linotype and Monotype machines so that text and technical composition would match. Walter Cunz at Stempel responded by commissioning Jan Tschichold to design the most faithful version of Claude Garamond’s serene and classical roman yet to be cut.The name refers to Jacques Sabon, who introduced Garamond’s romans to Frankfurt, although the typefaces that Sabon himself cut towards the end of the sixteenth century have a faintly awkward style of their own.</div>"
             ], 
             "flags": 0, 
             "guid": "!I){w5ES+", 
@@ -561,8 +575,8 @@
             "fields": [
                 "News Gothic", 
                 "<img src=\"News_Gothic_MT.svg\" />", 
-                "", 
-                ""
+                "<div>Distinctively shaped “a”.</div><div>Double story “g” and it’s ear.</div><div>Relatively short descenders.</div>", 
+                "<div>News Gothic is a realist sans-serif typeface designed by Morris Fuller Benton, and released by the American Type Founders (ATF) in 1908. The typeface was originally drawn in two lighter weights, a medium text weight using the title News Gothic, and a closely related light weight marketed under the name Lightline Gothic. The typeface family was enlarged in 1958 with the addition of two bold weights. News Gothic is similar in proportion and structure to Franklin Gothic also designed by Benton.</div>"
             ], 
             "flags": 0, 
             "guid": "+GM{e694A", 
@@ -575,8 +589,8 @@
             "fields": [
                 "Eurostile", 
                 "<img src=\"Eurostile.svg\" />", 
-                "", 
-                ""
+                "<div>Overall squared and rounded shape.</div><div>Diagonals of “k” do not touch the vertical stroke.</div><div>Lowercase “t” has a crossbar that is long on the right.</div>", 
+                "<div>Eurostile is one of the most important designs from the Italian font designer Aldo Novarese. It was originally produced in 1962 by the Nebiolo foundry as a more complete version of the earlier Microgramma, a caps-only font designed by Novarese and A. Butti. Eurostile reflects the flavor and spirit of the 1950s and 1960s. It has big, squarish shapes with rounded corners that look like television sets from that era.</div>"
             ], 
             "flags": 0, 
             "guid": "~KM{N9ek/", 
@@ -589,8 +603,8 @@
             "fields": [
                 "Adobe Caslon", 
                 "<img src=\"Adobe_Caslon.svg\" />", 
-                "", 
-                ""
+                "<div>High horizontal crossbar of lowercase “e”.</div><div>Capital “T” has long serifs tapering out from thin arms.</div><div>Long arm on capital “L”.</div>", 
+                "<div>Caslon refers to a number of serif typefaces designed by William Caslon I (1692–1766), and various revivals thereof. Adobe Caslon is a variant designed by Carol Twombly and based on the Caslon’s own specimen pages printed between 1734 and 1770. Small caps, old style figures, swash letters, ligatures, alternate letters, fractions, subscripts and superscripts, and ornaments were included with the Adobe Caslon Expert family.</div>"
             ], 
             "flags": 0, 
             "guid": "szK|l14V9", 
@@ -603,8 +617,8 @@
             "fields": [
                 "Interstate", 
                 "<img src=\"Interstate.svg\" />", 
-                "", 
-                ""
+                "<div>Large open counters aid legibility.</div><div>Terminals of ascenders and descenders are cut at an angle.</div><div>Short descenders.</div>", 
+                "<div>Interstate is a digital typeface designed by Tobias Frere-Jones in the period 1993–1999, and licensed by Font Bureau. The typeface is closely related to the FHWA Series fonts (often informally referred to as Highway Gothic; are a set of sans-serif typefaces developed by the United States Federal Highway Administration and used for road signage in the U.S., Canada, Mexico, Australia, Spain, The Netherlands, Turkey, Brazil, Chile, Malaysia and New Zealand.</div>"
             ], 
             "flags": 0, 
             "guid": ":$@FCdZLW", 
@@ -617,8 +631,8 @@
             "fields": [
                 "Times New Roman", 
                 "<img src=\"Times_New_Roman.svg\" />", 
-                "", 
-                ""
+                "<div>Rhythm between thick and thin strokes.</div><div>as seen in various letters, particularly the lowercase “c” and “e”.</div><div>Slightly thinner than other serifs.</div>", 
+                "<div>The now ubiquitous typeface Times New Roman was developed in 1931 for The Times of London under the leadership of Monotype’s typographic consultant, Stanley Morison. Morison had convinced the newspaper management that a new typeface was required. After unsatisfactory trials with Perpetua, Baskerville and Plantin (although that typeface showed much promise), from January 1931 Morison directed Monotype draftsman Victor Lardent to develop a new and sharper design based on his sketches.</div>"
             ], 
             "flags": 0, 
             "guid": "y1CEchYS{", 
@@ -631,8 +645,8 @@
             "fields": [
                 "Courier New", 
                 "<img src=\"Courier_New.svg\" />", 
-                "", 
-                ""
+                "<div>Monospaced, meaning all characters have the same width.</div><div>Rectangular dots over the lowercase “i” and “j”.</div><div>Single story lowercase “g”.</div>", 
+                "<div>Courier is a monospaced slab serif typeface designed to resemble the output from a strike-on typewriter. The typeface was designed by Howard “Bud” Kettler in 1955, and it was later redrawn by Adrian Frutiger for the IBM Selectric Composer series of electric typewriters. Although the design of the original Courier typeface was commissioned by IBM, they did not secure legal exclusivity to the typeface and it soon became a standard font used throughout the typewriter industry. Courier New is a version of Courier introduced with Windows 3.1.</div>"
             ], 
             "flags": 0, 
             "guid": "[TJqEKr[<", 
@@ -645,8 +659,8 @@
             "fields": [
                 "Baskerville", 
                 "<img src=\"Baskerville.svg\" />", 
-                "", 
-                ""
+                "<div>Tail on lowercase “g” does not close.</div><div>Increased contrast between thick and thin strokes.</div><div>Sharp, tapered serifs.</div>", 
+                "<div>Baskerville is a transitional serif typeface designed in 1757 by John Baskerville (1706–1775) in Birmingham, England. Baskerville is classified as a transitional typeface, positioned between the old style typefaces of William Caslon, and the modern styles of Giambattista Bodoni and Firmin Didot.</div>"
             ], 
             "flags": 0, 
             "guid": ">%R,Kj8>(", 
@@ -659,8 +673,8 @@
             "fields": [
                 "Arial", 
                 "<img src=\"Arial.svg\" />", 
-                "", 
-                ""
+                "<div>Horizontal terminals are angled, unlike Helvetica.</div><div>Top “t”s stem is angled.</div><div>No spur at bottom of “G”.</div>", 
+                "<div>Arial, sometimes marketed or displayed in software as Arial MT, is a sans-serif typeface and set of computer fonts. Fonts from the Arial family are packaged with all versions of Microsoft Windows, some other Microsoft software applications, Apple Mac OS X and many PostScript 3 computer printers. The typeface was designed in 1982 by a 10-person team, led by Robin Nicholas and Patricia Saunders, for Monotype Typography.</div>"
             ], 
             "flags": 0, 
             "guid": "vhsu>VsA[", 
@@ -673,8 +687,8 @@
             "fields": [
                 "American Typewriter", 
                 "<img src=\"American_Typewriter.svg\" />", 
-                "", 
-                ""
+                "<div>More rounded overall, compared to Courier New.</div><div>Ears on lowercase “a, c and r”.</div><div>Double story “g” with closed tail.</div>", 
+                "<div>ITC American Typewriter was designed by Joel Kaden and Tony Stan. It is an ode to the invention that shaped reading habits and the idea of legibility, the typewriter. A compromise between the rigidity of its ancestor and the expectations of the digital age, ITC American Typewriter retains the typical typewriter alphabet forms, lending the font a hint of nostalgia.</div>"
             ], 
             "flags": 0, 
             "guid": "+3&;D|p#n", 
@@ -687,8 +701,8 @@
             "fields": [
                 "Myriad", 
                 "<img src=\"Myriad_Pro.svg\" />", 
-                "", 
-                ""
+                "<div>Descender of lowercase “y”.</div><div>Slanting cut of lowercase “e”.</div><div>Single story lowercase”g”.</div>", 
+                "<div>In 1992, when typeface designers Robert Slimbach and Carol Twombly set out to design a new sans-serif for Adobe, the goal was to create something generic—jokingly calling the typeface ‘Generica’ during its design. “We wanted to make almost a totally invisible type of letter, just very generic... something that really didn’t show anyone’s personality too much,” explained Slimbach.</div>"
             ], 
             "flags": 0, 
             "guid": "!|L|M4B\"6", 
@@ -701,8 +715,8 @@
             "fields": [
                 "Palatino", 
                 "<img src=\"Palatino.svg\" />", 
-                "", 
-                ""
+                "<div>Slight diagonal stress.</div><div>Uses scooped serifs, also known as cove or bracketed serifs.</div><div>Slightly shorter x-height than other serifs.</div>", 
+                "<div>Palatino is a classic serif typeface designed by German typeface designer Hermann Zapf. Named after the 16th century Italian master of calligraphy Giambattista Palatino, it was released by the Linotype Foundry in 1948 for public use. Palatino was one of the most famous and widely used fonts of the time because of its new look and legibility and since has increased in popularity.</div>"
             ], 
             "flags": 0, 
             "guid": "{W?x]3L@a", 
@@ -715,8 +729,8 @@
             "fields": [
                 "Neutraface", 
                 "<img src=\"Neutraface.svg\" />", 
-                "", 
-                ""
+                "<div>Dropped crossbars on majority of capital letters.</div><div>Double story lowercase “g” with ear.</div><div>Slight variation of stroke thickness.</div>", 
+                "<div>Neutraface, is a geometric sans-serif typeface designed by Christian Schwartz for House Industries, an American type foundry. It was the result of a project started by Schwartz to design “the most typographically complete geometric sans serif family ever”, based on Richard Neutra’s (one of modernism’s most important architects) principles of architecture and design. It is therefore not as its name might suggest, a neutral typeface.</div>"
             ], 
             "flags": 0, 
             "guid": ")e]|)bqM2", 
@@ -729,8 +743,8 @@
             "fields": [
                 "Claredon", 
                 "<img src=\"Claredon.svg\" />", 
-                "", 
-                ""
+                "<div>Double story “g” with closed tail.</div><div>Large x-height lowercase letters.</div><div>Ears of the “c” and “r” are fully rounded.</div>", 
+                "<div>Clarendon is a slab-serif typeface created in 1845 by typographer and Lord Mayor of London, Robert Besley. The typeface was originally created for use by the Fann Street Foundry, a type foundry that specialized in display fonts. The name “Clarendon” comes from the Clarendon Press, a branch of the Oxford University Press. Because of Besley’s foresight and business acumen, Clarendon holds the distinction of being the first patented typeface in history. However, because of the popularity of the typeface, the patent didn’t stop imitators from duplicating the typeface and flooding the market with bootleg versions of Clarendon.</div>"
             ], 
             "flags": 0, 
             "guid": "r<1!:;nGK", 
@@ -743,8 +757,8 @@
             "fields": [
                 "Syntax Bold", 
                 "<img src=\"Syntax_Bold.svg\" />", 
-                "", 
-                ""
+                "<div>Slanted horizontal stroke ends on “w, x, y, v”.</div><div>Double story “a” and “g”.</div><div>Diagonal strokes just touch the stem.</div>", 
+                "<div>Syntax is a humanist sans-serif typeface designed 1969-72 by the Swiss typeface designer Hans Eduard Meier (born 1922). It is believed to be the final face designed and released by D. Stempel for foundry casting. Meier described Syntax as being a sans-serif face modeled on the Renaissance serif typeface, similar to Bembo.</div>"
             ], 
             "flags": 0, 
             "guid": "]30!GjQ\"]", 
@@ -755,24 +769,10 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Cooper Black", 
-                "<img src=\"Cooper_Black.svg\" />", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "mJWEnEn?k", 
-            "note_model_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "Garamond", 
                 "<img src=\"Garamond.svg\" />", 
-                "", 
-                ""
+                "<div>Horizontal serifs on “k, w, x, y” display irregulairties.</div><div>Double story “g” with closed tail.</div><div>Stark contrast in stroke width.</div>", 
+                "<div>A native of Paris, Claude Garamond (1490 - 1561) was an engraver and the first to produce a reworking of the earlier typefaces of Aldus Manutius, creating a face called Garamond. This small roman type became the standard European type of the day and was still in use in the 18th century. During most of the 20th century, most leading foundries around the world have redrawn their own versions of Garamond’s typeface, and Garamond’s roman is still regarded today as one of the classic typefaces.</div>"
             ], 
             "flags": 0, 
             "guid": ".eZ#${R&0", 
@@ -785,8 +785,8 @@
             "fields": [
                 "Agenda Light", 
                 "<img src=\"Agenda_Light.svg\" />", 
-                "", 
-                ""
+                "<div>Oblique square (diamond-shaped) dots over the “i” and “j”.</div><div>Lowercase “e” has a angled end to its crossbar.</div><div>No descender on lowercase “b”.</div>", 
+                "<div>The Agenda design is a humanist sans-serif font with sharp corners and perfectly circular curves. It is a deceptively simple looking typeface, with narrow stroke widths and no emphasis, false serifs or curling shapes. It was created by Greg Thompson for the Font Bureau and was based on a 1916 typeface Edward Johnston designed for the London Underground.</div>"
             ], 
             "flags": 0, 
             "guid": ")|c~7&^s[", 
@@ -799,8 +799,8 @@
             "fields": [
                 "Copperplate Gothic Light", 
                 "<img src=\"Copperplate_Gothic_Light.svg\" />", 
-                "", 
-                ""
+                "<div>Typeface constructed from capital letters and small caps.</div><div>Horizontal serif of uppercase “T” goes above the capline.</div><div>Serif on lowercase “L” goes below the baseline.</div>", 
+                "<div>Copperplate Gothic is a typeface designed by Frederic W. Goudy and released by the American Type Founders (ATF) in 1901. While termed a “Gothic” (another term for sans-serif), the face has small glyphic serifs that act to emphasize the blunt terminus of vertical and horizontal strokes. The typeface shows an unusual combination of influences: the glyphs are reminiscent of stone carving, the wide horizontal axis is typical of Victorian display types, yet the result is far cleaner and leaves a crisp impression in letterpress or offset printing.</div>"
             ], 
             "flags": 0, 
             "guid": "23x:<@Cno", 
@@ -813,8 +813,8 @@
             "fields": [
                 "Today Sans", 
                 "<img src=\"Today_Sans.svg\" />", 
-                "", 
-                ""
+                "<div>Angled terminals on some characters.</div><div>Lowercase “w” formed by overlapped “v”.</div><div>Slight backwards tilt of counter of lowercase “o”.</div>", 
+                "<div>Today Sans was designed by Volker Küster (Professor of Communications Design at the University of Essen) in 1988 for the foundry, Scangraphic Prepress Technology. Little else could be uncovered about this typeface or its designer.</div>"
             ], 
             "flags": 0, 
             "guid": "fcn`B.1_S", 
@@ -827,8 +827,8 @@
             "fields": [
                 "Info", 
                 "<img src=\"Info.svg\" />", 
-                "", 
-                ""
+                "<div>Soft rounded corners.</div><div>Slightly condensed overall letterform.</div><div>Horizontal stroke on lowercase “i” and “j”.</div>", 
+                "<div>Designed by Erik Spiekermann and Ole Schäfer for signage at Düsseldorf Airport. It was published by FontFont in 1996. FF Info offers a large variety in type weights and pictogram sets with good legibility.</div>"
             ], 
             "flags": 0, 
             "guid": "#Iu+9hpd2", 
