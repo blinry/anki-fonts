@@ -7,7 +7,7 @@ fonts = []
 
 hash = JSON.load(File.read("Fonts/Fonts.json"))
 hash["notes"].each do |note|
-    name = note["fields"][0]
+    name = note["fields"][1][10..-9].gsub("_", " ")
     fonts << name
 end
 

@@ -17,5 +17,4 @@ json.gsub!("  ", "    ")
 json.gsub!(/,$/, ", ")
 json.gsub!(/\[\s+\]/, "[]")
 
-puts json
 IO.write("Fonts/Fonts.json", json)

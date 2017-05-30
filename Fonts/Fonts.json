@@ -63,7 +63,7 @@
         "Perpetua.svg", 
         "Optima.svg", 
         "Avenir.svg", 
-        "DIN.svg", 
+        "DIN_Condensed.svg", 
         "Bodoni.svg", 
         "Futura_Light.svg", 
         "Minion_Pro.svg", 
@@ -74,14 +74,14 @@
         "Kabel.svg", 
         "Helvetica_Neue.svg", 
         "Museo.svg", 
-        "Klavika.svg", 
+        "Klavika_Bold.svg", 
         "Franklin_Gothic.svg", 
         "Meta.svg", 
         "Amplitude.svg", 
-        "Trajan.svg", 
+        "Trajan_Pro.svg", 
         "Century_Gothic.svg", 
         "Sabon.svg", 
-        "News_Gothic.svg", 
+        "News_Gothic_MT.svg", 
         "Eurostile.svg", 
         "Adobe_Caslon.svg", 
         "Interstate.svg", 
@@ -90,11 +90,11 @@
         "Baskerville.svg", 
         "Arial.svg", 
         "American_Typewriter.svg", 
-        "Myriad.svg", 
+        "Myriad_Pro.svg", 
         "Palatino.svg", 
         "Neutraface.svg", 
         "Claredon.svg", 
-        "Syntax.svg", 
+        "Syntax_Bold.svg", 
         "Cooper_Black.svg", 
         "Garamond.svg", 
         "Agenda_Light.svg", 
@@ -307,8 +307,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "DIN", 
-                "<img src=\"DIN.svg\" />", 
+                "DIN Condensed", 
+                "<img src=\"DIN_Condensed.svg\" />", 
                 "", 
                 ""
             ], 
@@ -419,7 +419,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Kabel", 
+                "ITC Kabel", 
                 "<img src=\"Kabel.svg\" />", 
                 "", 
                 ""
@@ -461,8 +461,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Klavika", 
-                "<img src=\"Klavika.svg\" />", 
+                "Klavika Bold", 
+                "<img src=\"Klavika_Bold.svg\" />", 
                 "", 
                 ""
             ], 
@@ -518,7 +518,7 @@
             "data": "", 
             "fields": [
                 "Trajan", 
-                "<img src=\"Trajan.svg\" />", 
+                "<img src=\"Trajan_Pro.svg\" />", 
                 "", 
                 ""
             ], 
@@ -560,7 +560,7 @@
             "data": "", 
             "fields": [
                 "News Gothic", 
-                "<img src=\"News_Gothic.svg\" />", 
+                "<img src=\"News_Gothic_MT.svg\" />", 
                 "", 
                 ""
             ], 
@@ -686,7 +686,7 @@
             "data": "", 
             "fields": [
                 "Myriad", 
-                "<img src=\"Myriad.svg\" />", 
+                "<img src=\"Myriad_Pro.svg\" />", 
                 "", 
                 ""
             ], 
@@ -741,8 +741,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Syntax", 
-                "<img src=\"Syntax.svg\" />", 
+                "Syntax Bold", 
+                "<img src=\"Syntax_Bold.svg\" />", 
                 "", 
                 ""
             ], 
