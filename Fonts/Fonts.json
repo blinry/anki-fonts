@@ -108,7 +108,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
-            "css": ".card {\n text-align: center;\n}\n\n.specimen img {\n margin: auto;\n width: auto;\n height: auto;\n max-width: 55em;\n max-height: 55em;\n}\n\n.history {\n text-align: justify;\n margin: auto;\n max-width: 35em;\n}\n\nh2 {\n font-style: italic;\n font-weight: normal;\n font-size: 1em;\n margin-top: 2em;\n}", 
+            "css": ".card {\n text-align: center;\n font-family: sans serif;\n}\n\n.history {\n text-align: justify;\n margin: auto;\n max-width: 35em;\n}\n\nh1 {\n font-weight: normal;\n}\n\nh2 {\n font-style: italic;\n font-weight: normal;\n font-size: 1em;\n margin-top: 2em;\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -169,7 +169,7 @@
                     "did": null, 
                     "name": "Font", 
                     "ord": 0, 
-                    "qfmt": "<div class=\"specimen\">{{Specimen}}</div>"
+                    "qfmt": "{{Specimen}}"
                 }
             ], 
             "type": 0, 
