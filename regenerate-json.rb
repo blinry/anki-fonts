@@ -1,6 +1,5 @@
 require "yaml"
 require "json"
-require "./generate"
 
 images = []
 
