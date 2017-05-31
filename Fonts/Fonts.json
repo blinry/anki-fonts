@@ -62,6 +62,7 @@
         "Arial.svg", 
         "Bodoni.svg", 
         "Sabon.svg", 
+        "Clarendon.svg", 
         "Bembo.svg", 
         "Garamond.svg", 
         "Didot.svg", 
@@ -91,7 +92,6 @@
         "Kabel.svg", 
         "Today_Sans.svg", 
         "Perpetua.svg", 
-        "Claredon.svg", 
         "Minion_Pro.svg", 
         "Klavika_Bold.svg", 
         "Eurostile.svg", 
@@ -108,7 +108,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "17cca788-3703-11e7-8da1-448500519c3a", 
-            "css": ".card {\n text-align: center;\n}\n\n.history {\n text-align: justify;\n margin: auto;\n max-width: 35em;\n}\n\nh2 {\n font-style: italic;\n font-weight: normal;\n font-size: 1em;\n margin-top: 2em;\n}", 
+            "css": ".card {\n text-align: center;\n}\n\n.specimen img {\n margin: auto;\n width: auto;\n height: auto;\n max-width: 55em;\n max-height: 55em;\n}\n\n.history {\n text-align: justify;\n margin: auto;\n max-width: 35em;\n}\n\nh2 {\n font-style: italic;\n font-weight: normal;\n font-size: 1em;\n margin-top: 2em;\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -169,7 +169,7 @@
                     "did": null, 
                     "name": "Font", 
                     "ord": 0, 
-                    "qfmt": "{{Specimen}}"
+                    "qfmt": "<div class=\"specimen\">{{Specimen}}</div>"
                 }
             ], 
             "type": 0, 
@@ -562,7 +562,7 @@
                 "Sabon", 
                 "<img src=\"Sabon.svg\" />", 
                 "<div>Vertical notches of a capital “T”.</div><div>Capital “Q”s tail is centered under the figure.</div><div>Uppercase “J” has a slight hook.</div>", 
-                "<div>In the early 1960s, the German masterprinters’ association requested that a new typeface be designed and produced in identical form on both Linotype and Monotype machines so that text and technical composition would match. Walter Cunz at Stempel responded by commissioning Jan Tschichold to design the most faithful version of Claude Garamond’s serene and classical roman yet to be cut.The name refers to Jacques Sabon, who introduced Garamond’s romans to Frankfurt, although the typefaces that Sabon himself cut towards the end of the sixteenth century have a faintly awkward style of their own.</div>"
+                "<div>In the early 1960s, the German masterprinters’ association requested that a new typeface be designed and produced in identical form on both Linotype and Monotype machines so that text and technical composition would match. Walter Cunz at Stempel responded by commissioning Jan Tschichold to design the most faithful version of Claude Garamond’s serene and classical roman yet to be cut. The name refers to Jacques Sabon, who introduced Garamond’s romans to Frankfurt, although the typefaces that Sabon himself cut towards the end of the sixteenth century have a faintly awkward style of their own.</div>"
             ], 
             "flags": 0, 
             "guid": "!I){w5ES+", 
@@ -741,8 +741,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Claredon", 
-                "<img src=\"Claredon.svg\" />", 
+                "Clarendon", 
+                "<img src=\"Clarendon.svg\" />", 
                 "<div>Double story “g” with closed tail.</div><div>Large x-height lowercase letters.</div><div>Ears of the “c” and “r” are fully rounded.</div>", 
                 "<div>Clarendon is a slab-serif typeface created in 1845 by typographer and Lord Mayor of London, Robert Besley. The typeface was originally created for use by the Fann Street Foundry, a type foundry that specialized in display fonts. The name “Clarendon” comes from the Clarendon Press, a branch of the Oxford University Press. Because of Besley’s foresight and business acumen, Clarendon holds the distinction of being the first patented typeface in history. However, because of the popularity of the typeface, the patent didn’t stop imitators from duplicating the typeface and flooding the market with bootleg versions of Clarendon.</div>"
             ], 
