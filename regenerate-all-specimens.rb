@@ -1,6 +1,6 @@
 require "yaml"
 require "json"
-require "./generate"
+require "./generate-specimen"
 
 #fonts = YAML.load(File.read("fonts.yaml"))
 fonts = []
