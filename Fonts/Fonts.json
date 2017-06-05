@@ -54,7 +54,7 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [
-        "Univers_Light.svg", 
+        "Univers.svg", 
         "Times_New_Roman.svg", 
         "Franklin_Gothic.svg", 
         "Baskerville.svg", 
@@ -68,32 +68,32 @@
         "Didot.svg", 
         "Museo.svg", 
         "Avant_Garde.svg", 
-        "Syntax_Bold.svg", 
+        "Syntax.svg", 
         "Century_Gothic.svg", 
         "Optima.svg", 
         "Frutiger.svg", 
         "Meta.svg", 
         "Myriad_Pro.svg", 
         "Amplitude.svg", 
-        "DIN_Condensed.svg", 
-        "Gill_Sans_Light.svg", 
+        "DIN.svg", 
+        "Gill_Sans.svg", 
         "Akzidenz_Grotesk.svg", 
-        "Copperplate_Gothic_Light.svg", 
+        "Copperplate_Gothic.svg", 
         "Rockwell.svg", 
         "Gotham.svg", 
         "Interstate.svg", 
         "Palatino.svg", 
-        "Agenda_Light.svg", 
+        "Agenda.svg", 
         "Courier_New.svg", 
         "American_Typewriter.svg", 
-        "Futura_Light.svg", 
+        "Futura.svg", 
         "News_Gothic_MT.svg", 
-        "Helvetica_Bold.svg", 
+        "Helvetica.svg", 
         "Kabel.svg", 
         "Today_Sans.svg", 
         "Perpetua.svg", 
         "Minion_Pro.svg", 
-        "Klavika_Bold.svg", 
+        "Klavika.svg", 
         "Eurostile.svg", 
         "Info.svg", 
         "Neutraface.svg", 
@@ -237,8 +237,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Helvetica Bold", 
-                "<img src=\"Helvetica_Bold.svg\" />", 
+                "Helvetica", 
+                "<img src=\"Helvetica.svg\" />", 
                 "<div>Single, uniformed line weight.</div><div>Vertical or horizontal terminations on strokes, never diagonal.</div><div>Bowl of lowercase “a” closely resembles a teardrop.</div>", 
                 "<div>Eduard Hoffmann, the director of the Haas’sche Schriftgießerei, commissioned Max Miedinger to develop a new sans-serif typeface that had great clarity, no intrinsic meaning in its form, and could be used on a wide variety of signage. In 1957 the Haas-Grotesk face was introduced. Three years later the typeface was renamed Helvetica.</div>"
             ], 
@@ -251,8 +251,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Univers Light", 
-                "<img src=\"Univers_Light.svg\" />", 
+                "Univers", 
+                "<img src=\"Univers.svg\" />", 
                 "<div>Diagonal strokes of “k” meet at stem.</div><div>“a” has no baseline curl, and is perpendicular at top of bowl.</div><div>Squaring of round strokes.</div>", 
                 "<div>Univers is based on 1898‘s Akzidenz-Grotesk. However, Univers is unique in that the design lacks superfluous features of any type, creating a design that is versatile and distinctive without being obstrusive. Adrian Frutiger began work on Univers in 1954, completing his design in 1957.</div>"
             ], 
@@ -321,8 +321,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "DIN Condensed", 
-                "<img src=\"DIN_Condensed.svg\" />", 
+                "DIN", 
+                "<img src=\"DIN.svg\" />", 
                 "<div>Slightly squared letterform.</div><div>Square dots above the lowercase “i” and “j”.</div><div>Single story lowercase “g”.</div>", 
                 "<div>The history of the realist sans-serif known today as DIN goes back to 1905. At the time, the Prussian railway created a set of lettering with the purpose of unifying the descriptions on their freight cars. Following a merger of all German state railways in 1920, the master drawings of the Prussian railway became the reference for most railway lettering. Based on the master drawings, the D. Stempel AG foundry released the earliest version of a DIN face in 1923.</div>"
             ], 
@@ -349,8 +349,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Futura Light", 
-                "<img src=\"Futura_Light.svg\" />", 
+                "Futura", 
+                "<img src=\"Futura.svg\" />", 
                 "<div>Geometric structure; near perfect circles,</div><div>triangles &amp; squares evident across every letter.</div><div>Lowercase has tall ascenders which rise above cap line.</div>", 
                 "<div>Following the Bauhaus design philosophy, German type designer Paul Renner first created Futura between 1924 and 1926. Although Renner was not a member of the Bauhaus, he shared many of its views, believing that a modern typeface should express modern models rather than be a rivial of a previous design. Futura was commercially released in 1927, commissioned by the Bauer type foundry. In 1969 the Apollo 11 astronauts left behind a commemorative plaque, set in Futura, making it the first font on the moon.</div>"
             ], 
@@ -377,8 +377,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Gill Sans Light", 
-                "<img src=\"Gill_Sans_Light.svg\" />", 
+                "Gill Sans", 
+                "<img src=\"Gill_Sans.svg\" />", 
                 "<div>Contrast in line weight; seen primarily in the letter “r”.</div><div>Signature lowercase “g” resembles eyeglasses.</div><div>Cropped ascender on the letter “t”.</div>", 
                 "<div>The British sculptor, graphic artist and type designer Eric Gill created this font in a search to design the ultimate legible sans-serif text face. Edward Johnston’s sans serif lettering for the London Underground was his prime source of inspiration. The typeface was designed to function as a text face as well and has been a popular choice for decades.</div>"
             ], 
@@ -433,7 +433,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "ITC Kabel", 
+                "Kabel", 
                 "<img src=\"Kabel.svg\" />", 
                 "<div>Terminus of vertical strokes are cut to a near eight-degree angle.</div><div>Diamond shaped dots on “i” &amp; “j”.</div><div>Distinctive lowercase “g”.</div>", 
                 "<div>Kabel is a geometric sans-serif typeface designed by German typeface designer Rudolf Koch, and released by the Klingspor foundry in 1927. The face was named to honor the newly completed trans-Atlantic telephone cable. Today the typeface is licensed by the Elsner+Flake GbR foundry.</div>"
@@ -475,8 +475,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Klavika Bold", 
-                "<img src=\"Klavika_Bold.svg\" />", 
+                "Klavika", 
+                "<img src=\"Klavika.svg\" />", 
                 "<div>Gap between the vertical stroke and diagonal strokes on “k”.</div><div>Disjointed strokes of lowercase “y”.</div><div>Generally squared letterform.</div>", 
                 "<div>Klavika, by Eric Olson of Process Type Foundry, was released in 2004. In the time since, Klavika has become one of the past decade’s most popular typefaces. It has been a favorite of NBC and its sister stations in on-air promotions, and is in heavy use by ABC Sports/ESPN, Comcast Xfinity, General Motors, and a great number of other companies, large and small. Perhaps Klavika is most noticeable as the basis for the Facebook logo.</div>"
             ], 
@@ -755,8 +755,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Syntax Bold", 
-                "<img src=\"Syntax_Bold.svg\" />", 
+                "Syntax", 
+                "<img src=\"Syntax.svg\" />", 
                 "<div>Slanted horizontal stroke ends on “w, x, y, v”.</div><div>Double story “a” and “g”.</div><div>Diagonal strokes just touch the stem.</div>", 
                 "<div>Syntax is a humanist sans-serif typeface designed 1969-72 by the Swiss typeface designer Hans Eduard Meier (born 1922). It is believed to be the final face designed and released by D. Stempel for foundry casting. Meier described Syntax as being a sans-serif face modeled on the Renaissance serif typeface, similar to Bembo.</div>"
             ], 
@@ -783,8 +783,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Agenda Light", 
-                "<img src=\"Agenda_Light.svg\" />", 
+                "Agenda", 
+                "<img src=\"Agenda.svg\" />", 
                 "<div>Oblique square (diamond-shaped) dots over the “i” and “j”.</div><div>Lowercase “e” has a angled end to its crossbar.</div><div>No descender on lowercase “b”.</div>", 
                 "<div>The Agenda design is a humanist sans-serif font with sharp corners and perfectly circular curves. It is a deceptively simple looking typeface, with narrow stroke widths and no emphasis, false serifs or curling shapes. It was created by Greg Thompson for the Font Bureau and was based on a 1916 typeface Edward Johnston designed for the London Underground.</div>"
             ], 
@@ -797,8 +797,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Copperplate Gothic Light", 
-                "<img src=\"Copperplate_Gothic_Light.svg\" />", 
+                "Copperplate Gothic", 
+                "<img src=\"Copperplate_Gothic.svg\" />", 
                 "<div>Typeface constructed from capital letters and small caps.</div><div>Horizontal serif of uppercase “T” goes above the capline.</div><div>Serif on lowercase “L” goes below the baseline.</div>", 
                 "<div>Copperplate Gothic is a typeface designed by Frederic W. Goudy and released by the American Type Founders (ATF) in 1901. While termed a “Gothic” (another term for sans-serif), the face has small glyphic serifs that act to emphasize the blunt terminus of vertical and horizontal strokes. The typeface shows an unusual combination of influences: the glyphs are reminiscent of stone carving, the wide horizontal axis is typical of Victorian display types, yet the result is far cleaner and leaves a crisp impression in letterpress or offset printing.</div>"
             ], 
