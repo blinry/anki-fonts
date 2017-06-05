@@ -463,7 +463,7 @@
             "fields": [
                 "Museo", 
                 "<img src=\"Museo.svg\" />", 
-                "<div>Serif like accents on majority of letters.</div><div>Shortened ascender on the letter “t”.</div><div>Slight storke variation on curves.</div>", 
+                "<div>Serif like accents on majority of letters.</div><div>Shortened ascender on the letter “t”.</div><div>Slight stroke variation on curves.</div>", 
                 "<div>Jos Buivenga designed Museo in 2008 for the exljbris Font Foundry stating, “It all started with my love for the letter ‘U’. This uppercase letter just came to me as an image in a daydream. The top of both stems bent into semi-slab serifs. From this principle I worked out the rest of the uppercase letters. My first intention was to make it an all-caps display font, but after a while, I changed my mind. I wanted it to be a bit more versatile, so I decided to add lowercase and adjust spacing and kerning to increase legibility.”</div>"
             ], 
             "flags": 0, 
@@ -520,7 +520,7 @@
                 "Amplitude", 
                 "<img src=\"Amplitude.svg\" />", 
                 "<div>Ear of lowercase “g”.</div><div>“Cuts” at points where strokes meet.</div><div>Slightly condensed letterform.</div>", 
-                "<div>A successful agate (the smallest point size that can be printed on newsprint and remain legible) predicts the spread of ink on paper and effectively keeps legibility under less than ideal conditions.Fascinated by the visual aspects of these entirely functional compensations, Christian Schwartz designed Amplitude, an extensive sanserif series for text and display that turns function into style: deep angled cuts keep small sizes readable, while adding character at display sizes. It was released by Font Bureau in 2002.</div>"
+                "<div>A successful agate (the smallest point size that can be printed on newsprint and remain legible) predicts the spread of ink on paper and effectively keeps legibility under less than ideal conditions. Fascinated by the visual aspects of these entirely functional compensations, Christian Schwartz designed Amplitude, an extensive sanserif series for text and display that turns function into style: deep angled cuts keep small sizes readable, while adding character at display sizes. It was released by Font Bureau in 2002.</div>"
             ], 
             "flags": 0, 
             "guid": "5CzSnu/!R", 
@@ -548,7 +548,7 @@
                 "Century Gothic", 
                 "<img src=\"Century_Gothic.svg\" />", 
                 "<div>Single story “a” and “g”.</div><div>No descender on lowercase “u”.</div><div>Larger x-height than close relative Futura.</div>", 
-                "<div>Century Gothic is a geometric sans-serif typeface designed for Monotype Imaging in 1991. It is a digital typeface that has never been made into actual foundry type. Century Gothic takes inspiration from Sol Hess’s Twentieth Century, which was drawn between 1937 and 1947 for the Lanston Monotype Company as a version of the successful Futura typeface, but with a larger x-height and more even stroke width.Century Gothic is also said to be an interpretation of its early predecessor, ITC Avant Garde Gothic.</div>"
+                "<div>Century Gothic is a geometric sans-serif typeface designed for Monotype Imaging in 1991. It is a digital typeface that has never been made into actual foundry type. Century Gothic takes inspiration from Sol Hess’s Twentieth Century, which was drawn between 1937 and 1947 for the Lanston Monotype Company as a version of the successful Futura typeface, but with a larger x-height and more even stroke width. Century Gothic is also said to be an interpretation of its early predecessor, ITC Avant Garde Gothic.</div>"
             ], 
             "flags": 0, 
             "guid": "_~W}k]Um9", 
@@ -618,7 +618,7 @@
                 "Interstate", 
                 "<img src=\"Interstate.svg\" />", 
                 "<div>Large open counters aid legibility.</div><div>Terminals of ascenders and descenders are cut at an angle.</div><div>Short descenders.</div>", 
-                "<div>Interstate is a digital typeface designed by Tobias Frere-Jones in the period 1993–1999, and licensed by Font Bureau. The typeface is closely related to the FHWA Series fonts (often informally referred to as Highway Gothic; are a set of sans-serif typefaces developed by the United States Federal Highway Administration and used for road signage in the U.S., Canada, Mexico, Australia, Spain, The Netherlands, Turkey, Brazil, Chile, Malaysia and New Zealand.</div>"
+                "<div>Interstate is a digital typeface designed by Tobias Frere-Jones in the period 1993–1999, and licensed by Font Bureau. The typeface is closely related to the FHWA Series fonts (often informally referred to as Highway Gothic), which are a set of sans-serif typefaces developed by the United States Federal Highway Administration and used for road signage in the U.S., Canada, Mexico, Australia, Spain, The Netherlands, Turkey, Brazil, Chile, Malaysia and New Zealand.</div>"
             ], 
             "flags": 0, 
             "guid": ":$@FCdZLW", 
